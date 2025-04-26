@@ -1,0 +1,4 @@
+SalesOrder/
+tests/
+.venv/
+.env
